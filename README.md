@@ -1,2 +1,3 @@
-# csci-3308-lab3
-SDMT Lab 3
+# CSCI 3308 Lab3
+### Daniel Henderson
+
